@@ -1,5 +1,5 @@
 Personal note:
-"unutilized variable when its ocean"
+"unutilized variable when its oceanS"
 
 more visit:
 
